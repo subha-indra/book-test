@@ -1,0 +1,29 @@
+---
+title: "Hound of the Baskervilles"
+author: "Arthur Conan Doyle"
+site: bookdown::bookdown_site
+documentclass: book
+output-dir: "docs"
+output:
+  bookdown::gitbook: default
+  #bookdown::pdf_book: default
+---
+
+# Preface
+
+My dear Robinson,
+
+
+It was to your account of a West-Country legend that this tale owes its inception. For this and for your help in the details all thanks.
+
+
+
+Yours most truly,        
+
+A. Conan Doyle.    
+
+
+
+Hindhead,
+
+Haslemere.
